@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EPAM.CoreWorkshop.ReporterHelper\EPAM.CoreWorkShop.ReporterHelper.csproj" />
+    <ProjectReference Include="..\EPAM.CoreWorkShop.ReporterHelper\EPAM.CoreWorkShop.ReporterHelper.csproj" />
   </ItemGroup>
 
 </Project>
